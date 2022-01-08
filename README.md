@@ -6,7 +6,7 @@ The purpose of this analysis was to determine the results of an election. This i
 
 ## Election Audit Results
 
-[!results](resources/election_results.png)
+![results](resources/election_results.png)
 
 - Total votes cast: 369,711
 - Votes by County
